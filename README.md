@@ -11,6 +11,10 @@ Repositorio criado para o desafio de Projeto.
 
 ## Comandos dotnet.
 
+
+- mkdir  "nome"                            ( Criar diretorio. )
+- dotnet new sln --name ExemploPPO         ( Cria uma solução. )
+- dotnet sln add  caminho do projeto       ( Adiciona o projeto a solução. )
 - dotnet new console -n nome do projeto    ( Cria um novo projeto com o nome desejado.  )
 - dotnet restore                           ( Restaura os pacotes. )
 - dotnet build                             ( Processo de compilação gerando os binarios. )
