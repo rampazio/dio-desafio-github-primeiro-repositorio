@@ -1,4 +1,4 @@
-# Lista de comandos e lembretes rapidos.
+# Lista de comandos, lembretes e consultas rápidas.
 Repositorio criado para o desafio de Projeto.
 
 ## Links Úteis
@@ -6,16 +6,16 @@ Repositorio criado para o desafio de Projeto.
 
 
 
-## Comandos Git
+## Comandos Git.
 
 
-## Comandos dotnet
+## Comandos dotnet.
 
-dotnet new console -n nome do projeto   // Cria um novo projeto com o nome desejado.
-dotnet restore                          // Restaura os pacotes.
-dotnet build                            // Processo de compilação gerando os binarios.
-dotnet run                              // Executa a build.
-code .                                  // abre o vs code.
-explorer .                              // abre o explorer do windows.
+- dotnet new console -n nome do projeto    ( Cria um novo projeto com o nome desejado.  )
+- dotnet restore                           ( Restaura os pacotes. )
+- dotnet build                             ( Processo de compilação gerando os binarios. )
+- dotnet run                               ( Executa a build. ) 
+- code .                                   ( abre o vs code. )
+- explorer .                               ( abre o explorer do windows.)
 
 
