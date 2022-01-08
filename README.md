@@ -1,6 +1,21 @@
-# Desafio de Projeto sobfre Git/Github da DIO.
+# Lista de comandos e lembretes rapidos.
 Repositorio criado para o desafio de Projeto.
 
 ## Links Úteis
 [Sintaxe Basica Markdows](https://www.markdownguide.org/basic-syntax/)
+
+
+
+## Comandos Git
+
+
+## Comandos dotnet
+
+dotnet new console -n nome do projeto   // Cria um novo projeto com o nome desejado
+dotnet restore                          // Restaura os pacotes
+dotnet build                            // Processo de compilação gerando os binarios
+dotnet run                              // Executa a build
+code .                                  // abre o vs code
+explorer .                              // abre o explorer do windows
+
 
