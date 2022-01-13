@@ -44,15 +44,15 @@ Repositorio criado para o desafio de Projeto.
 
 
 
-#< A partir daqui, organizar em pastas no futuro >
 
 
 
 
-##modelos
+
+#modelos
 
 
-# Modelo configuração de rotas página principal
+## Modelo configuração de rotas página principal
 import {
   BrowserRouter,
   Routes,
