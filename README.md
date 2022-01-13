@@ -44,15 +44,15 @@ Repositorio criado para o desafio de Projeto.
 
 
 
-< A partir daqui, organizar em pastas no futuro >
-
-# Atalhos de codigos
+#< A partir daqui, organizar em pastas no futuro >
 
 
-##Codigos yarn
 
 
-# Codigo para configuração de rotas
+##modelos
+
+
+# Modelo configuração de rotas página principal
 import {
   BrowserRouter,
   Routes,
