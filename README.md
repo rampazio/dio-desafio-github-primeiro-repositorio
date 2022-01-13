@@ -36,4 +36,46 @@ Repositorio criado para o desafio de Projeto.
 - code .                                   ( abre o vs code. )
 - explorer .                               ( abre o explorer do windows.)
 
+## Comandos yarn.
 
+- yarn start ( Inicia o yarn[para parar, usar teclas Ctrl+C])
+- yarn add react-router-dom@6.2.1 @types/react-router-dom@5.3.2 (Instala rotas nas pastas)
+
+
+
+
+< A partir daqui, organizar em pastas no futuro >
+
+# Atalhos de codigos
+
+
+##Codigos yarn
+
+
+# Codigo para configuração de rotas
+import {
+  BrowserRouter,
+  Routes,
+  Route
+} from "react-router-dom";
+import Listing from 'pages/Listing';
+import Form from 'pages/Form';
+import Navbar from "components/Navbar";
+
+function App() {
+  return (
+    <BrowserRouter>
+      <Navbar />
+      <Routes>
+        <Route path="/" element={<Listing />} />
+        <Route path="/form">
+          <Route path=":movieId" element={<Form />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
+  );
+}
+
+export default App;
+
+#
