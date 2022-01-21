@@ -6,8 +6,6 @@
 
 
 ## Dependencias Maven h2database
-[Sintaxe Basica Markdows](https://www.markdownguide.org/basic-syntax/)
-
 
 
 
