@@ -21,6 +21,14 @@ Repositorio criado para o desafio de Projeto.
 - git branch -M main (Muda o nome da Branch para main, alguns casos fica como master e pode dar erro)
 - git push -u origin main ( envia o projeto para o github)
 
+## Comandos para o SSH
+
+- $ ssh-keygen -t rsa -b 4096 -C "email_do_github" (colocar email para gerar ssh)
+- $ eval "${ssh-agent -s}" (iniciar agent ssh)
+- Agent pid 59566  (selecionar ssh)
+- $ ssh-add ~/.ssh/id_rsa (adicionar ssh local)
+- $ git remote -v  (verificar conta)
+- $ git remote set-url origin git@github.com:andgomes/my-repo.git ( relacionar ssh ao repositorio git hub)
 
 
 ## Comandos dotnet.
