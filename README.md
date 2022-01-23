@@ -30,6 +30,7 @@ Repositorio criado para o desafio de Projeto.
 - $ git remote -v  (verificar conta)
 - $ git remote set-url origin git@github.com:andgomes/my-repo.git ( relacionar ssh ao repositorio git hub)
 
+Fonte : [https://medium.com/@andgomes/git-github-evitando-informar-usu%C3%A1rio-e-senha-a-cada-push-para-o-github-d8edbb5c6de4](https://medium.com/@andgomes/git-github-evitando-informar-usu%C3%A1rio-e-senha-a-cada-push-para-o-github-d8edbb5c6de4) 
 
 ## Comandos dotnet.
 
