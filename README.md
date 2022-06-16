@@ -5,6 +5,12 @@ Repositorio criado para o desafio de Projeto.
 [Sintaxe Basica Markdows](https://www.markdownguide.org/basic-syntax/)
 
 
+## Comandos Html
+
+- <p> -- paragrafo
+- <hr> -- criar linha
+- <br> -- quebrar linha
+
 
 ## Comandos Git.
 
